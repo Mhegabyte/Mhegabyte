@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Meg
-- 👀 I’m interested in clothes, game consoles, cute stuff toys and everything that's cute!
-- 🌱 I’m currently learning Angular and Azure cloud.
+- 👋 Hi, I’m Meg, just a noob developer 
+- 👀 I’m interested in clothes, games, cute stuff toys and everything that's cute!
 - 📫 How to reach me ...
 
 <!---
